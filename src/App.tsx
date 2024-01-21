@@ -10,7 +10,7 @@ const App = () => {
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Edit <code>src/App.tsx</code> and save to reload!
         </p>
         <Quotes />
         <span>
